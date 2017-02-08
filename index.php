@@ -33,6 +33,13 @@
 
   div.container {
       align-items: center;
+      margin:auto;
+  }
+  div {
+      margin: auto;
+  }
+  img {
+      margin:auto;
   }
   </style>
 </head>
@@ -55,9 +62,9 @@
       <?php
 
       $messages = array(
-          'This is the first message',
-          'This is the second message',
-          'This is the third message'
+          'What would you do if you are not afraid of anything?',
+          'Now is the perfect time.',
+          'It is not the critic who counts.'
       );
 
       echo $messages[rand(0, count($messages) - 1)];
