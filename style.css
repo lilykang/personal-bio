@@ -1,0 +1,24 @@
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 32px;
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+    font-family: verdana;
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    color: green;
+    font-family: Times;
+    font-size: 18px;
+    text-align: center;
+}
+
+body {
+    background-color: lightgreen;
+}
