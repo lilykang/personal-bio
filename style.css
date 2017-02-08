@@ -22,3 +22,9 @@ p {
 body {
     background-color: lightgreen;
 }
+
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: center;
+}

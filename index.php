@@ -51,11 +51,17 @@
       as a consultant while continuing my involvement in social innovation.
     </p>
     <h2>Here is one of my favorite quotes: </h2>
-    <p><?php
-    include('quote.php');
-    $randn = rand(0,count($rand)-1);
-    echo ($rand[$randn]);
-    ?>
+    <p>
+      <?php
+
+      $messages = array(
+          'This is the first message',
+          'This is the second message',
+          'This is the third message'
+      );
+
+      echo $messages[rand(0, count($messages) - 1)];
+      ?>
     </p>
   </div>
 
