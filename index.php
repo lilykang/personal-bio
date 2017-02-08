@@ -40,6 +40,7 @@
   }
   img {
       margin:auto;
+      position: relative;
   }
   </style>
 </head>
