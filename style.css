@@ -1,28 +1,28 @@
 h1 {
-    color: black;
-    font-family: Georgia;
-    font-size: 32px;
+  color: black;
+  font-family: Georgia;
+  font-size: 32px;
 }
 
 h2 {
-    color: darkgreen;
-    font-family: Georgia;
-    font-size: 24px;
+  color: darkgreen;
+  font-family: Georgia;
+  font-size: 24px;
 }
 
 p {
-    color: green;
-    font-family: Times;
-    font-size: 18px;
+  color: green;
+  font-family: Times;
+  font-size: 18px;
 }
 
 body {
-    background-color: rgb(227,255,234);
+  background-color: rgb(227,255,234);
 }
 
 img {
-    margin: auto;
-    display: block;
+  margin: auto;
+  display: block;
 }
 
 * {

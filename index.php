@@ -12,11 +12,11 @@
     <p>
       I am a wonderer and a wanderer. <br />
       I live for conversations that allow me to get to know someone deeply. <br />
-      During college, I developed strong passion for entrepreneurship and <br />
-      human development through researching internationally and leading student organizations. <br />
+      During college, I developed strong passion for entrepreneurship and human development <br />
+      through researching internationally and leading student organizations. <br />
       Human Centered Design encapsulates my principles and pursuits. <br />
-      After graduating in May 2016, I've been contributing to a software company in Minneapolis, MN <br />
-      as a consultant while continuing my involvement in social innovation.
+      After graduating in May 2016, I've been contributing to a software company <br />
+      in Minneapolis, MN while continuing my involvement in social innovation.
     </p>
     <a href="http://www.jingtingkang.com" target="_blank">Learn More About Me</a>
     <h2>Here is one of my favorite quotes: </h2>
