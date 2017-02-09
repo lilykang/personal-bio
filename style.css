@@ -1,13 +1,13 @@
 h1 {
     color: black;
-    font-family: verdana;
+    font-family: Georgia;
     font-size: 32px;
     text-align: center;
 }
 
 h2 {
     color: darkgreen;
-    font-family: verdana;
+    font-family: Georgia;
     font-size: 24px;
     text-align: center;
 }
@@ -20,11 +20,10 @@ p {
 }
 
 body {
-    background-color: lightgreen;
+    background-color: rgb(227,255,234);
 }
 
-div.img {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: center;
+img {
+    margin: auto;
+    display: block;
 }

@@ -2,40 +2,7 @@
 <html>
 <head>
   <title>Lily Kang</title>
-  <!--
-  <link href="style.css" type="text/css" ref="stylesheet">
--->
-  <style>
-  h1 {
-      color: black;
-      font-family: verdana;
-      font-size: 32px;
-      text-align: center;
-  }
-
-  h2 {
-      color: darkgreen;
-      font-family: verdana;
-      font-size: 24px;
-      text-align: center;
-  }
-
-  p {
-      color: green;
-      font-family: Times;
-      font-size: 18px;
-      text-align: center;
-  }
-
-  body {
-      background-color: rgb(227,255,234);
-  }
-
-  img {
-      margin: auto;
-      display: block;
-  }
-  </style>
+  <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
   <div class=container>
@@ -54,7 +21,6 @@
     <h2>Here is one of my favorite quotes: </h2>
     <p>
       <?php
-
       $messages = array(
           'What would you do if you are not afraid of anything?',
           'Now is the perfect time.',
