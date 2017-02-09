@@ -7,7 +7,7 @@
 <body>
   <div class=container>
     <h1>Lily Kang</h1>
-    <img src='images/Lily_Kang_Photo.jpg' alt='Lily Kang's headshot' width=428 height=284/>
+    <img src="images/Lily_Kang_Photo.jpg" alt="Lily Kang's headshot" width="428" height="284"/>
     <h2>About Me</h2>
     <p>
       I am a wonderer and a wanderer. <br />
