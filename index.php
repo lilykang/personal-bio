@@ -18,6 +18,7 @@
       After graduating in May 2016, I've been contributing to a software company in Minneapolis, MN <br />
       as a consultant while continuing my involvement in social innovation.
     </p>
+    <a href="http://www.jingtingkang.com">Learn More About Me</a>
     <h2>Here is one of my favorite quotes: </h2>
     <p>
       <?php
