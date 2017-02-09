@@ -31,16 +31,9 @@
       background-color: rgb(227,255,234);
   }
 
-  div.container {
-      align-items: center;
-      margin:auto;
-  }
-  div {
-      margin: auto;
-  }
   img {
-      margin:auto;
-      position: relative;
+      margin: auto;
+      display: block;
   }
   </style>
 </head>
